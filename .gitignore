@@ -1,0 +1,12 @@
+FreeRTOS
+FreeRTOS-Plus
+Tracelyzer
+PressureHumidityTemperature.X/build
+PressureHumidityTemperature.X/dist
+PressureHumidityTemperature.X/docs/
+PressureHumidityTemperature.X/nbproject/Makefile-*
+PressureHumidityTemperature.X/nbproject/Package-*
+PressureHumidityTemperature.X/nbproject/private
+include/Communication/version.h
+PressureHumidityTemperature.X/.generated_files/
+PressureHumidityTemperature.X/Makefile
